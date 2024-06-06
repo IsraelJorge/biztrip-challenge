@@ -3,30 +3,32 @@
 Este repositório contém a solução para o Desafio Frontend da Biztrip, focado na funcionalidade "CRUI" “CRUIA” (Create, Read, Update, Inactivate, Activate) de Credenciais.
 
 ### Índice
--   [Pré-requisitos](#pr%C3%A9-requisitos)
--   [Instalação](#instala%C3%A7%C3%A3o)
--   [Rodando o Projeto](#rodando-o-projeto)
--   [Deploy do Projeto](#deploy-do-projeto)
--   [Estrutura do Projeto](#estrutura-do-projeto)
--   [Tecnologias e Ferramentas Utilizadas](#tecnologias-e-ferramentas-utilizadas)
--   [Contribuindo](#contribuindo)
+
+- [Pré-requisitos](#pr%C3%A9-requisitos)
+- [Instalação](#instala%C3%A7%C3%A3o)
+- [Rodando o Projeto](#rodando-o-projeto)
+- [Deploy do Projeto](#deploy-do-projeto)
+- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Tecnologias e Ferramentas Utilizadas](#tecnologias-e-ferramentas-utilizadas)
+- [Contribuindo](#contribuindo)
 
 ### Pré-requisitos
 
 Certifique-se de ter os seguintes itens instalados em seu sistema:
 
--   Node.js (versão 14 ou superior)
--   npm ou yarn
+- Node.js (versão 14 ou superior)
+- npm ou yarn
 
 ### Instalação
 
-1 -  **Clone o repositório:**
+1 - **Clone o repositório:**
 
 ```
 git clone git@github.com:IsraelJorge/biztrip-challenge.git
 cd biztrip-challenge
 ```
-2 -  **Instale as dependências:**
+
+2 - **Instale as dependências:**
 
 Usando npm:
 
@@ -39,6 +41,7 @@ Ou usando yarn:
 ```
 yarn install
 ```
+
 ### Rodando o Projeto
 
 Para iniciar o projeto localmente, use o seguinte comando:
@@ -54,6 +57,7 @@ Ou usando yarn:
 ```
 yarn dev
 ```
+
 A aplicação estará disponível em http://localhost:5174.
 
 ### Deploy do Projeto
